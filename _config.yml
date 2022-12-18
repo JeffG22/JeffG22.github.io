@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeff Giliberti"
 title_separator          : "-"
 name                     : &name "Jeff Giliberti"
-description              : &description "Computer Science master's student at ETHZ"
+description              : &description "Computer Science Master's student at ETH Zurich, interested in Theoretical Computer Science"
 url                      : https://jgiliberti.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JeffG22.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_kopn_UAAAAJ&hl=en"
-  email            : 
+  email            : "jeff.giliberti at inf.ethz.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jgiliberti/"
+  linkedin         : "jgiliberti/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

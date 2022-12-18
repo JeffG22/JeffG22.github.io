@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Site under construction until Dec 17th"
+title: "About"
+titleWeb: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

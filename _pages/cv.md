@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download <u><a href="https://JeffG22.github.io/files/jgiliberti_CV.pdf">a copy of my CV here</a></u> <i>(last update: Dec 2022)</i>.
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
