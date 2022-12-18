@@ -20,21 +20,21 @@ Education
 Experience
 ====== 
 * Fall 2022: Applied Research Scientist Intern, Amazon
-  * Supervisors: <a href="https://urosolia.github.io/" style="color:#000000;">Dr. Ugo Rosolia</a>, <a href="https://scholar.google.com/citations?user=W_uLyhYAAAAJ&hl=en" style="color:#000000;">Dr. Georgios Paschos</a>
+  * Supervisors: <a href="https://urosolia.github.io/" style="color:#494e52;">Dr. Ugo Rosolia</a>, <a href="https://scholar.google.com/citations?user=W_uLyhYAAAAJ&hl=en" style="color:#494e52;">Dr. Georgios Paschos</a>
 
 * Spring 2022: Master's Thesis, ETH Zurich
   * *Deterministic Massively Parallel Algorithms for Graph Problems*
-  * Advisors: <a href="http://people.csail.mit.edu/ghaffari/" style="color:#000000;">Prof. Mohsen Ghaffari</a>, <a href="https://people.inf.ethz.ch/fiscmanu/" style="color:#000000;">Dr. Manuela Fischer</a>, <a href="https://people.inf.ethz.ch/cgrunau/" style="color:#000000;">Christoph Grunau</a>
+  * Advisors: <a href="http://people.csail.mit.edu/ghaffari/" style="color:#494e52;">Prof. Mohsen Ghaffari</a>, <a href="https://people.inf.ethz.ch/fiscmanu/" style="color:#494e52;">Dr. Manuela Fischer</a>, <a href="https://people.inf.ethz.ch/cgrunau/" style="color:#494e52;">Christoph Grunau</a>
 
 * Fall 2021: Software Engineer Intern, Meta
 
 * Spring 2021: Research Assistant, Max Planck Institute for Informatics
-  * Supervisor: <a href="https://www.mpi-inf.mpg.de/departments/algorithms-complexity/research/combinatorial-optimization" style="color:#000000;">Dr. Andreas Karrenbauer</a>
+  * Supervisor: <a href="https://www.mpi-inf.mpg.de/departments/algorithms-complexity/research/combinatorial-optimization" style="color:#494e52;">Dr. Andreas Karrenbauer</a>
 
 * Summer 2020: Software Development Engineer Intern, Amazon
 
 * Spring 2019: Bachelor's Thesis, University of Genoa
-  * Advisor: <a href="http://www.star.dist.unige.it/~marco/" style="color:#000000;">Prof. Marco Maratea</a>
+  * Advisor: <a href="http://www.star.dist.unige.it/~marco/" style="color:#494e52;">Prof. Marco Maratea</a>
   
 <!-- Skills
 ======
