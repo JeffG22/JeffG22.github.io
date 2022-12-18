@@ -13,49 +13,61 @@ You can download <a href="https://JeffG22.github.io/files/jgiliberti_CV.pdf">a c
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, ETH Zurich, 2022
+* B.S. in Computer Science and Engineering, University of Genoa, 2019
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Experience
+====== 
+* Fall 2022: Applied Research Scientist Intern, Amazon
+  * Supervisors: <a href="https://urosolia.github.io/" style="color:#000000;">Dr. Ugo Rosolia</a>, <a href="https://scholar.google.com/citations?user=W_uLyhYAAAAJ&hl=en" style="color:#000000;">Dr. Georgios Paschos</a>
+
+* Spring 2022: Master's Thesis, ETH Zurich
+  * *Deterministic Massively Parallel Algorithms for Graph Problems*
+  * Advisors: <a href="http://people.csail.mit.edu/ghaffari/" style="color:#000000;">Prof. Mohsen Ghaffari</a>, <a href="https://people.inf.ethz.ch/fiscmanu/" style="color:#000000;">Dr. Manuela Fischer</a>, <a href="https://people.inf.ethz.ch/cgrunau/" style="color:#000000;">Christoph Grunau</a>
+
+* Fall 2021: Software Engineer Intern, Meta
+
+* Spring 2021: Research Assistant, Max Planck Institute for Informatics
+  * Supervisor: <a href="https://www.mpi-inf.mpg.de/departments/algorithms-complexity/research/combinatorial-optimization" style="color:#000000;">Dr. Andreas Karrenbauer</a>
+
+* Summer 2020: Software Development Engineer Intern, Amazon
+
+* Spring 2019: Bachelor's Thesis, University of Genoa
+  * Advisor: <a href="http://www.star.dist.unige.it/~marco/" style="color:#000000;">Prof. Marco Maratea</a>
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
+* Skill 3 -->
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  See <a href="https://JeffG22.github.io/research">Research page</a>.
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  * Fall 2020 and 2021: Teaching Assistant, "Algorithms, Probability, and Computing", ETH Zurich
   
-Service and leadership
+Academic Service 
 ======
-* Currently signed in to 43 different slack teams
+* External Reviewer for: SWAT 2022.
+
+Leadership
+======
+* 2021 - 2023: Lead, <a href="https://gdsc.community.dev/eth-zurich/">Google Developer Student Club Zurich</a>
