@@ -16,6 +16,12 @@ author_profile: true
   You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
 
+## Publications
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include single_pub.html %}
+{% endfor %}
+
+## Preprints and Working Papers
+{% for post in site.preprints reversed %}
+  {% include single_pub.html %}
 {% endfor %}
