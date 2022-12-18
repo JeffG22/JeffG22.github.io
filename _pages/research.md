@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+titleWeb: "Research"
 permalink: /research/
 author_profile: true
 ---
