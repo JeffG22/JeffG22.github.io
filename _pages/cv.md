@@ -20,48 +20,40 @@ Education
 Experience
 ====== 
 * Fall 2022: Applied Research Scientist Intern, Amazon
-  * Supervisors: <a href="https://urosolia.github.io/" style="color:#494e52;">Dr. Ugo Rosolia</a>, <a href="https://scholar.google.com/citations?user=W_uLyhYAAAAJ&hl=en" style="color:#494e52;">Dr. Georgios Paschos</a>
+  * Supervisors: <a href="https://urosolia.github.io/">Dr. Ugo Rosolia</a>, <a href="https://scholar.google.com/citations?user=W_uLyhYAAAAJ&hl=en">Dr. Georgios Paschos</a>
 
 * Spring 2022: Master's Thesis, ETH Zurich
   * *Deterministic Massively Parallel Algorithms for Graph Problems*
-  * Advisors: <a href="http://people.csail.mit.edu/ghaffari/" style="color:#494e52;">Prof. Mohsen Ghaffari</a>, <a href="https://people.inf.ethz.ch/fiscmanu/" style="color:#494e52;">Dr. Manuela Fischer</a>, <a href="https://people.inf.ethz.ch/cgrunau/" style="color:#494e52;">Christoph Grunau</a>
+  * Advisors: <a href="http://people.csail.mit.edu/ghaffari/">Prof. Mohsen Ghaffari</a>, <a href="https://people.inf.ethz.ch/fiscmanu/">Dr. Manuela Fischer</a>, <a href="https://people.inf.ethz.ch/cgrunau/">Christoph Grunau</a>
 
 * Fall 2021: Software Engineer Intern, Meta
 
 * Spring 2021: Research Assistant, Max Planck Institute for Informatics
-  * Supervisor: <a href="https://www.mpi-inf.mpg.de/departments/algorithms-complexity/research/combinatorial-optimization" style="color:#494e52;">Dr. Andreas Karrenbauer</a>
+  * Supervisor: <a href="https://www.mpi-inf.mpg.de/departments/algorithms-complexity/research/combinatorial-optimization">Dr. Andreas Karrenbauer</a>
 
 * Summer 2020: Software Development Engineer Intern, Amazon
 
 * Spring 2019: Bachelor's Thesis, University of Genoa
-  * Advisor: <a href="http://www.star.dist.unige.it/~marco/" style="color:#494e52;">Prof. Marco Maratea</a>
+  * Advisor: <a href="http://www.star.dist.unige.it/~marco/">Prof. Marco Maratea</a>
   
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 Publications
 ======
   See <a href="https://JeffG22.github.io/research">Research page</a>.
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-<!--   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
+#  
+# Talks
+# ======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul> 
   
 Teaching
 ======
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+#  s<ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul> 
   * Fall 2020 and 2021: Teaching Assistant, "Algorithms, Probability, and Computing", ETH Zurich
   
 Academic Service 
