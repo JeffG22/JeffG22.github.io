@@ -18,10 +18,10 @@ author_profile: true
 
 ## Publications
 {% for post in site.publications reversed %}
-  {% include archive-single_pub.html %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ## Preprints and Working Papers
 {% for post in site.preprints reversed %}
-  {% include archive-single_pub.html %}
+  {% include archive-single.html %}
 {% endfor %}
