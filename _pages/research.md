@@ -23,5 +23,5 @@ author_profile: true
 
 ## Preprints and Working Papers
 {% for post in site.preprints reversed %}
-  {% include single_pub.html %}
+  {% include archive-single_pub.html %}
 {% endfor %}
