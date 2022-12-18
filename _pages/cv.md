@@ -43,7 +43,7 @@ Publications
   
 Teaching
 ======
-  * Fall 2020 and 2021: Teaching Assistant, "Algorithms, Probability, and Computing", ETH Zurich
+  * Fall 2020 and Fall 2021: Teaching Assistant, "Algorithms, Probability, and Computing", ETH Zurich
   
 Academic Service 
 ======
