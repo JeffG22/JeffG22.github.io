@@ -39,22 +39,10 @@ Experience
   
 Publications
 ======
-  See <a href="https://JeffG22.github.io/research">Research page</a>.
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-#  
-# Talks
-# ======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul> 
+  See <a href="https://JeffG22.github.io/research">Research page</a>. 
   
 Teaching
 ======
-#  s<ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul> 
   * Fall 2020 and 2021: Teaching Assistant, "Algorithms, Probability, and Computing", ETH Zurich
   
 Academic Service 
