@@ -15,7 +15,7 @@ I am currently a research intern at Amazon in Luxembourg. Prior to that, I condu
  
 In 2019, I graduated summa cum laude from the [University of Genoa](https://unige.it/en/) with a BS in Computer Science and Engineering.
 
-Since August 2021, I am serving as Lead of the [Google Developer Student Club Zurich](https://gdsc.community.dev/eth-zurich/), a community group around science and technology of over 1100 students. 
+Since August 2021, I have led the [Google Developer Student Club Zurich](https://gdsc.community.dev/eth-zurich/), a community group around science and technology of over 1100 students. 
 Read more about my journey [in this article](https://medium.com/googledeveloperseurope/gdsc-z%C3%BCrich-leads-build-community-around-cutting-edge-tech-topics-411d3dc7b11b)!
 
 Feel free to get in touch with me at jgiliberti at inf dot ethz dot ch.
