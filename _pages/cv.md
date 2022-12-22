@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download <a href="https://JeffG22.github.io/files/jgiliberti_CV.pdf">a copy of my CV here</a> <i>(last update: Dec 2022)</i>.
+You can download <a href="https://JeffG22.github.io/files/jgiliberti_CV.pdf">a copy of my CV here</a> <i>(last update: Dec 2022)</i>. See below for a summary.
 
 Education
 ======
