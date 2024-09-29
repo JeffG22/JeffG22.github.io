@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeff Giliberti"
 title_separator          : "-"
 name                     : &name "Jeff Giliberti"
-description              : &description "Computer Science Master's student at ETH Zurich, interested in Theoretical Computer Science"
+description              : &description "Computer Science PhD student at ETH UMD, interested in Theoretical Computer Science"
 url                      : https://jgiliberti.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JeffG22.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jeff Giliberti"
   avatar           : "profileJeff.png"
-  bio              : "Master's Student at ETH Zurich"
-  location         : "Zurich, Switzerland"
+  bio              : "PhD in Algorithms at UMD"
+  location         : "Washington DC, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_kopn_UAAAAJ&hl=en"

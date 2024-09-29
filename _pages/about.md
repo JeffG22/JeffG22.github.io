@@ -9,13 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am about to complete my Master's in Computer Science at [ETH Zurich](https://www.inf.ethz.ch/) with a specialization in Theoretical Computer Science. My research interests are in the design and analysis of algorithms, with a focus on algorithms for modern computational settings, such as distributed, online, parallel, and sublinear algorithms. I wish to continue with a PhD in this field. 
+I am a PhD student in Computer Science at the [University of Maryland](https://umd.edu/), where I am fortunate to be co-advised by [Mohammad Hajiaghayi](https://www.cs.umd.edu/~hajiagha/) and [Laxman Dhulipala](https://www.cs.umd.edu/~laxman/). 
+I am interested in the design and analysis of algorithms, with a focus on modern computational settings such as parallel and distributed computing, decision-making under uncertainty, and dynamic algorithms (see also my [research page](https://www.jgiliberti.me/research/)).
+I am grateful to the Italy-US Fulbright Program for funding my first year of PhD.
 
-I am currently a research intern at Amazon in Luxembourg, in the Algorithms and Optimization Lab. Prior to that, I was fortunate to conduct my Master's thesis in the group of [Mohsen Ghaffari](http://people.csail.mit.edu/ghaffari/), working with [Manuela Fischer](https://people.inf.ethz.ch/fiscmanu/) and [Christoph Grunau](https://people.inf.ethz.ch/cgrunau/). In 2021, I had the opportunity to do a research internship at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) hosted by [Andreas Karrenbauer](https://people.mpi-inf.mpg.de/~karrenba/). I formerly interned at Meta and Amazon as a software engineer.
+Prior to my PhD pursuit, I completed my Master's in Computer Science at [ETH Zurich](https://www.inf.ethz.ch/) with a thesis on parallel and distributed algorithms advised by [Mohsen Ghaffari](http://people.csail.mit.edu/ghaffari/), working with [Manuela Fischer](https://people.inf.ethz.ch/fiscmanu/) and [Christoph Grunau](https://people.inf.ethz.ch/cgrunau/). Earlier, I graduated summa cum laude from the [University of Genoa](https://unige.it/en/) with a BS in Computer Science and Engineering.
+
+I worked on research and software engineering projects during my internships at Google Zurich in the Graph Mining team hosted by [Hendrik Fichtenberger](https://hendrik-fichtenberger.de/), Amazon Luxembourg in ATS hosted by [Ugo Rosolia](https://urosolia.github.io/), [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) hosted by [Andreas Karrenbauer](https://people.mpi-inf.mpg.de/~karrenba/), Meta in the Events and Escalation Team and Amazon in the Global Talent Development Org.
  
-In 2019, I graduated summa cum laude from the [University of Genoa](https://unige.it/en/) with a BS in Computer Science and Engineering.
+I served as the Lead of the [Google Developer Student Club Zurich](https://gdsc.community.dev/eth-zurich/), a community group around science and technology of over 1100 students, for two years. I got featured in [this blogpost!](https://medium.com/googledeveloperseurope/gdsc-z%C3%BCrich-leads-build-community-around-cutting-edge-tech-topics-411d3dc7b11b)!
 
-Since August 2021, I have led the [Google Developer Student Club Zurich](https://gdsc.community.dev/eth-zurich/), a community group around science and technology of over 1100 students. 
-Read more about my journey [in this article](https://medium.com/googledeveloperseurope/gdsc-z%C3%BCrich-leads-build-community-around-cutting-edge-tech-topics-411d3dc7b11b)!
-
-Feel free to get in touch with me at jgiliberti at inf dot ethz dot ch.
+Feel free to get in touch with me at jeffgili at umd dot edu.
